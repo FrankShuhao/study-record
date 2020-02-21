@@ -1,13 +1,13 @@
 # 基础知识整合
 
-|**Operate System** | **NetWork**| **Database** | **Object Oriented** |
+|**:computer:Operate System** | **:globe_with_meridians:NetWork**| **:blue_book:Database** | **:elephant:Object Oriented** |
 |------|------|------|------
 |**[Fundamental Concepts](#jump)** | **[Fundamental Concepts](#jump)** | **[SQL](#jump)** | **[Concepts](#jump)** 
 |**[Linux System](#jump)** | **[HTTP](#jump)** | **[System Concepts](#jump)** | **[Design Pattern](#jump)** 
 |/ | **[Socket](#jump)** | **[MySQL](#jump)** | / 
 |/ | / | **[Redis](#jump)** | /
 
-## Operate System
+## :computer:Operate System
 
 ### <span id = "jump">Fundamental Concepts</span>
 
@@ -17,14 +17,14 @@
 
 ### <span id = "jump">Linux System</span>
 
-## NetWork
+## :globe_with_meridians:NetWork
 ### <span id = "jump">Fundamental Concepts</span>
 
 ### <span id = "jump">HTTP</span>
 
 ### <span id = "jump">Socket</span>
 
-## Database
+## :blue_book:Database
 ### <span id = "jump">SQL</span>
 
 ### <span id = "jump">System Concepts</span>
@@ -33,7 +33,7 @@
 
 ### <span id = "jump">Redis</span>
 
-## Object Oriented
+## :elephant:Object Oriented
 ### <span id = "jump">Concepts</span>
   
 ### <span id = "jump">Design Pattern</span>
