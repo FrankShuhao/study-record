@@ -3,6 +3,7 @@
 |**Operate System** | **NetWork**| **Database** | **Object Oriented** |
 |------|------|------|------
 |**[Fundamental Concepts](#jump)** | **[NetWork](#jump)** | **[Database](#jump)** | **[Object Oriented](#jump)** 
+|**[Linux System](#jump)** | **[NetWork](#jump)** | **[Database](#jump)** | **[Object Oriented](#jump)** 
 
 ## Operate System
 ### <span id = "jump">[Fundamental Concepts](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
