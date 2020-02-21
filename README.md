@@ -8,7 +8,7 @@
 |/ | / | **[Redis](#jump)** | /
 
 ## Operate System
-### <span id = "jump">[Fundamental Concepts]</span>
+### <span id = "jump">Fundamental Concepts</span>
 
 * ★★★ [进程与线程的本质区别、以及各自的使用场景。](https://github.com/FrankShuhao/study-record/blob/master/files/Operate%20System/Fundamental%20Concepts/%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%8C%BA%E5%88%AB%E4%BB%A5%E5%8F%8A%E5%90%84%E8%87%AA%E7%9A%84%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.md)
 * ★☆☆ [进程状态.](https://github.com/FrankShuhao/study-record/blob/master/files/Operate%20System/Fundamental%20Concepts/%E8%BF%9B%E7%A8%8B%E7%8A%B6%E6%80%81.md)
@@ -17,22 +17,22 @@
 ### <span id = "jump">Linux System</span>
 
 ## NetWork
-### <span id = "jump">[Fundamental Concepts](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
+### <span id = "jump">Fundamental Concepts</span>
 
-### <span id = "jump">[HTTP](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
+### <span id = "jump">HTTP</span>
 
-### <span id = "jump">[Socket](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
+### <span id = "jump">Socket</span>
 
 ## Database
-### <span id = "jump">[SQL](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
+### <span id = "jump">SQL</span>
 
-### <span id = "jump">[System Concepts](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
+### <span id = "jump">System Concepts</span>
 
-### <span id = "jump">[MySQL](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
+### <span id = "jump">MySQL</span>
 
-### <span id = "jump">[Redis](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
+### <span id = "jump">Redis</span>
 
 ## Object Oriented
-### <span id = "jump">[Concepts](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
+### <span id = "jump">Concepts</span>
   
-### <span id = "jump">[Design Pattern](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
+### <span id = "jump">Design Pattern</span>
