@@ -17,7 +17,22 @@
 ### <span id = "jump">[Linux System](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
 
 ## NetWork
+### <span id = "jump">[Fundamental Concepts](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
+
+### <span id = "jump">[HTTP](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
+
+### <span id = "jump">[Socket](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
 
 ## Database
+### <span id = "jump">[SQL](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
+
+### <span id = "jump">[System Concepts](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
+
+### <span id = "jump">[MySQL](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
+
+### <span id = "jump">[Redis](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
 
 ## Object Oriented
+### <span id = "jump">[Concepts](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span
+  
+### <span id = "jump">[Design Pattern](https://github.com/FrankShuhao/study-record/tree/master/files/Operate%20System)</span>
