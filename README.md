@@ -20,6 +20,7 @@
 ## :globe_with_meridians:NetWork
 ### <span id = "jump">Fundamental Concepts</span>
 * ★★★ [各层协议的作用](https://github.com/FrankShuhao/study-record/blob/master/files/Network/Fundamental%20Concepts/%E5%90%84%E5%B1%82%E5%8D%8F%E8%AE%AE%E7%9A%84%E4%BD%9C%E7%94%A8.md)
+* ★★★ [TCP/IP协议的特点](https://github.com/FrankShuhao/study-record/blob/master/files/Network/Fundamental%20Concepts/%E5%90%84%E5%B1%82%E5%8D%8F%E8%AE%AE%E7%9A%84%E4%BD%9C%E7%94%A8.md)
 ### <span id = "jump">HTTP</span>
 
 ### <span id = "jump">Socket</span>
